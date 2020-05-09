@@ -1,0 +1,10 @@
+html{
+    background-color: black;
+}
+
+#redDot{
+    background-color: green;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
